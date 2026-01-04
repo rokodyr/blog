@@ -1,0 +1,15 @@
+# Reverse Engineering Mindset
+
+## Overview
+Reverse engineering is not about reading code; it’s about understanding
+behavior, patterns, and logic.
+
+## Topics
+- Analyzing binaries without source code
+- Behavior-focused analysis
+- Pattern recognition and debugging techniques
+- Static vs dynamic analysis
+- Identifying potential vulnerabilities through reasoning
+
+## Takeaway
+The key is to think like the system, not just read its code.
