@@ -1,0 +1,16 @@
+# System Internals
+
+## Overview
+Understanding how systems operate at a low level is essential
+for offensive security research. This includes processes, memory,
+and kernel vs user-mode behavior.
+
+## Topics
+- Process lifecycle and memory management
+- Stack, heap, and process behavior
+- User-mode vs kernel-mode differences
+- Unexpected system behavior analysis
+- Preparing system-first thinking for potential vulnerabilities
+
+## Takeaway
+Offensive methodology starts with analyzing **how systems actually work**.
