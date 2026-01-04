@@ -1,0 +1,14 @@
+# Attack Surface Mapping
+
+## Overview
+Mapping attack surfaces helps identify where potential vulnerabilities exist.
+
+## Topics
+- Entry points and trust boundaries
+- Human + system combined attack surfaces
+- Risk evaluation and prioritization
+- Manual vs automated discovery
+- Documenting and analyzing potential attack vectors
+
+## Takeaway
+Mapping helps visualize the system holistically and anticipate risks.
